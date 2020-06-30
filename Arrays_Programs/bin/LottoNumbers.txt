@@ -1,0 +1,2 @@
+2 5 6 4 3 23 43 2 0
+Java Lotto_Number<LottoNumbers.txt
