@@ -1,0 +1,8 @@
+<taglib>
+	<tlibversion>1.0</tlibversion>
+	<jspversion>2.3</jspversion>
+	<tag>
+		<name>myinfo</name>
+		<tagclass>jsp_5.Mytag1</tagclass>
+	</tag>
+</taglib>
